@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java Code Review"
+  short_description: "Review Java backend code changes with rigor"
+  default_prompt: "Use $java-code-review to review the current Java backend changes and produce a prioritized Chinese review report."
